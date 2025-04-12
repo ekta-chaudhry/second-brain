@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ekta-chaudhry/second-brain#readme",
   "description": "",
   "dependencies": {
+    "mongoose": "^8.13.2",
     "typescript": "^5.8.3"
   }
 }
